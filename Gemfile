@@ -10,7 +10,7 @@ gem 'rails', '~> 6.0.3', '>= 6.0.3.3'
 gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views','~>1.0'
-gem "stock_quote", '~> 3.0.0'
+gem 'stock_quote', '~> 3.0.0'
 gem 'jquery-rails'
 #
 gem 'bcrypt', '~> 3.1.7'
