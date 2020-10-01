@@ -12,6 +12,7 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views','~>1.0'
 gem 'stock_quote', '~> 3.0.0'
 gem 'jquery-rails'
+gem 'font_awesome5_rails'
 #
 gem 'bcrypt', '~> 3.1.7'
 gem 'will_paginate', '3.1.7'
